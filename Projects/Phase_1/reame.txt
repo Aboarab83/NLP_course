@@ -1,0 +1,4 @@
+this folder contains the project created based on phaseI : 
+learning about tfidf, BOW and basic classification models like LogisiticRegression , LinearSVC multinomial along with 
+GridSearchCV
+
